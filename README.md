@@ -6,6 +6,6 @@ This repository includes my personal game project for mini-hackathon.
 </p>
 
 * Running into vegetables: +Gain plus points & play coin sound.
-* Running into fast food: Lose points & play negative sound.
+* Running into fast food: -Lose points & play negative sound.
 
 => All assets & musics used from free unity assets.
