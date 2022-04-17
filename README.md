@@ -5,4 +5,7 @@ This repository includes my personal game project for mini-hackathon.
   <img src="https://github.com/boranim/Veggie-Hunter/blob/main/VeggieHunter-gif.gif">
 </p>
 
-* All assets & musics used from free unity assets.
+* Running into vegetables: +Gain plus points & play coin sound.
+* Running into fast food: Lose points & play negative sound.
+
+=> All assets & musics used from free unity assets.
