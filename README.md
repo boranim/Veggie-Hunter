@@ -1,9 +1,10 @@
 # Veggie-Hunter
 This repository includes my personal game project made with Unity Game Engine for mini-hackathon.
 
- ### Videoplay:
-https://www.youtube.com/embed/HJOZs2tnZog?si=_hi44g7XyEDw6eyv
+ ### Gameplay:
+https://www.youtube.com/watch?v=HJOZs2tnZog
 
+[![gameplay](https://img.youtube.com/vi/HJOZs2tnZog/0.jpg)](https://www.youtube.com/watch?v=HJOZs2tnZog)
 
 * Character control: Forward, back, right, left, jump
 * Running into vegetables: +Gain plus points & play coin sound.
