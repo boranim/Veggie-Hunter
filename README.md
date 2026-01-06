@@ -2,9 +2,8 @@
 This repository includes my personal game project made with Unity Game Engine for mini-hackathon.
 
  ### Gameplay (click the image):
- <p align="center">
+
 [![gameplay](https://img.youtube.com/vi/HJOZs2tnZog/0.jpg)](https://www.youtube.com/watch?v=HJOZs2tnZog)
-</p>
 
 ### Features
 * Character control: Forward, back, right, left, jump
